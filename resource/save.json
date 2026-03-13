@@ -1,0 +1,22 @@
+{
+    "СНГ": {
+        "BYN": {
+            "ID": "R01090B",
+            "NumCode": "933",
+            "CharCode": "BYN",
+            "Nominal": 1,
+            "Name": "Белорусский рубль",
+            "Value": 27.0216,
+            "Previous": 26.9361
+        },
+        "KZT": {
+            "ID": "R01335",
+            "NumCode": "398",
+            "CharCode": "KZT",
+            "Nominal": 100,
+            "Name": "Тенге",
+            "Value": 16.0841,
+            "Previous": 15.944
+        }
+    }
+}
